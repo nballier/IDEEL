@@ -18,10 +18,37 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
-- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski  
-
+- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. 
+ 
+## Pour en savoir plus
 - retrouvez les archives de la promo 2019-2020:  <http://yunes.informatique.univ-paris-diderot.fr/accueil/enseignement/ireel-relia>
 - témoignage d'étudiants et d'enseignants en 2019-2020 sur cet enseignement interdisciplinaire : <https://youtu.be/nokwdPdj3Xc> 
+
+
+
+
+
+LCA5Y260 Projet encadré (code de l'UFR études anglophones) 
+
+·       Initiation au deep learning pour le traitement automatique des langues
+
+Ce cours d’initiation à la recherche à partir de l’initiation au langage de programmation Python, en collaboration avec l’UFR d’informatique et de Linguistique, aura lieu à Olympe de Gouges le mercredi de 13h00 à 15h00, sur douze semaines. Les étudiants réaliseront en binôme avec un(e) étudiant(e) en informatique ou en linguistique informatique un petit projet d’analyse automatique du langage sur des problématiques linguistiques de l’anglais. En particulier, on montrera quelques applications des réseaux de neurones, telles que la traduction automatique neuronale. Les travaux seront présentés sous forme de posters à des étudiants de master spécialistes du domaine au tout début du semestre suivant.
+
+Pré́-programme des séances et informations complémentaires en :
+https://github.com/nballier/IDEEL/
+Ce cours bénéficie d’un soutien de l’Université de Paris dans le cadre de l’appel à projets « Initiation à la REcherche En Licence » (IREEL) et permettra aux étudiants d’assister à une conférence.
+
+• Modalités d'évaluation du contrôle continu, session 1 : Les étudiants rédigeront un abstract et un poster présentant leur projet.
+• Modalités d'évaluation du contrôle terminal, session 1 : Les étudiants rédigeront un abstract et un poster présentant leur projet.
+
+• Modalités d'évaluation, session 2 : Repris du poster présentant le projet.
+
+Bibliographie :
+
+Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. O'Reilly
+
+Webographie :
+<https://github.com/nballier/IDEEL>
 
 
 
