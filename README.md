@@ -61,7 +61,7 @@ séance 12 finalisation poster
 ## Quelques exemples de projets choisis de 2019-2020: 
 - générer un texte de rap avec un système de contraintes rythimques  
 - un système de résumé automatique pour les romans
-- histoire des agents convervationnels (chatbots)
+- comparaison des agents conversationnels (chatbots)
 - peut-on détecter automatiquement les mots d'un dictionnaire du XVIIIe siècle devenus obsolètes?  
 - peut-on étiqueter les mots à la manière de Walker, lexicographe du XVIIIe siècle?
  
