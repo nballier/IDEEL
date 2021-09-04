@@ -19,11 +19,55 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
 - Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. 
+
+
+## PROGRAMME PREVISIONNEL
+=======================
+
+Séance 1 : les domaines de la linguistqiue et les principales applications du TAL
+
+séance 2 :initiation à python / deep learning, initiation aux carnets jupyter
+
+séance 3 : outils collaboratifs: BibTeX , zotero, overleaf 
+
+séance 4: choix du projet, bibliographies 
+
+séance 5 : présentation d'un outil du TAL: un tagger
+
+séance 6 : présentation d'un outil du TAL: un exemple de parser
+
+séance 7 : quelques bibliothèques python /
+lancer des expériences sur un carnet jupyter
+
+séance 8 : lancer des expériences sur un serveur
+
+séance 9 : lancer des expériences sur un serveur (2) 
+
+séances 10 : supervision des expériences et interprétation des résultats 
+
+séance 11 interprétation des résultats et réalisation du poster
+
+séance 12 finalisation poster 
+
+14 janvier 9h-11h30  : présentation des posters 
+
+
+## idées de projet 2021-2022
+-> construire un modèle de traduction neuronale pour (essayer de) traduire Shakespeare
+-> construire un traducteur automatique d'un texte en français en écriture inclusive 
+
+
+
+## Quelques exemples de projets choisis de 2019-2020: 
+- générer un texte de rap avec un système de contraintes rythimques  
+- un système de résumé automatique pour les romans
+- histoire des agents convervationnels (chatbots)
+- peut-on détecter automatiquement les mots d'un dictionnaire du XVIIIe siècle devenus obsolètes?  
+- peut-on étiqueter les mots à la manière de Walker, lexicographe du XVIIIe siècle?
  
 ## Pour en savoir plus
 - retrouvez les archives de la promo 2019-2020:  <http://yunes.informatique.univ-paris-diderot.fr/accueil/enseignement/ireel-relia>
 - témoignage d'étudiants et d'enseignants en 2019-2020 sur cet enseignement interdisciplinaire : <https://youtu.be/nokwdPdj3Xc> 
-
 
 
 
