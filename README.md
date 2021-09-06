@@ -18,7 +18,7 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
-- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. 
+- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h à 12h. 
 
 
 ## PROGRAMME PREVISIONNEL
