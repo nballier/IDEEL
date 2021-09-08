@@ -91,11 +91,13 @@ Bibliographie :
 
 Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. O'Reilly
 
-Webographie :
+# Webographie :
 <https://github.com/nballier/IDEEL>
 
 
-
+# Acknowledgement
 
 This project was supported by IdEx Université de Paris ANR-18-IDEX-0001 (AAP Initiation à la Recherche en Licence, vague 2)
 <https://u-paris.fr/resultats-de-laap-ireel-vague-2/>
+
+ ![alt text](https://github.com/nballier/IDEEL/blob/main/Logo_Idex_IA.pdf)
