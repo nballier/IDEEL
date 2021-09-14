@@ -13,12 +13,12 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
  
 
 ## Fonctionnement
-- Les étudiants auront 12 séances de 2h d'enseignement encadré à Paris Diderot au premier semestre (mercredi 13h-15h00, Olympe de Gouges. Premier cours mercredi 22 septembre).
+- Les étudiants auront 12 séances de 2h d'enseignement encadré à Paris Diderot au premier semestre (mercredi 13h-15h00, salle 208, Olympe de Gouges. Premier cours mercredi 22 septembre).
 - Les étudiants travailleront en binôme : un étudiant(e) angliciste de Diderot en L3 (dans le cadre du projet étudiant de L3) ou un étudiant(e) en linguistique informatique  et un étudiant en informatique de Paris Diderot ou de Paris Descartes.
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
-- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h à 12h. 
+- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h à 12h en salle 309 Olympe de Gouges (premier cours le 15 septembre 2019). 
 
 
 ## PROGRAMME PREVISIONNEL
