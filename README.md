@@ -18,13 +18,13 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
-- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h à 12h en salle 309 Olympe de Gouges (premier cours le 15 septembre 2019). 
+- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h20 à 12h30 en salle 309 Olympe de Gouges (premier cours le 15 septembre 2019). 
 
 
 ## PROGRAMME PREVISIONNEL
 =======================
 
-Séance 1 : les domaines de la linguistqiue et les principales applications du TAL
+Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL
 
 séance 2 :initiation à python / deep learning, initiation aux carnets jupyter
 
