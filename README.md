@@ -26,6 +26,7 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 
 Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL
 
+
 séance 2 : initiation à python / deep learning, initiation aux carnets jupyter
 
 
@@ -48,26 +49,31 @@ séance 8 : lancer des expériences sur un serveur
 
 séance 9 : lancer des expériences sur un serveur (2) 
 
-séances 10 : supervision des expériences et interprétation des résultats 
+séance 10 : supervision des expériences et interprétation des résultats 
 
-séance 11 interprétation des résultats et réalisation du poster
+séance 11 : interprétation des résultats et réalisation du poster
 
-séance 12 finalisation poster 
+séance 12 : finalisation poster 
 
-14 janvier 9h-11h30  : présentation des posters 
+
+14 janvier 2022 : 9h-11h30  : présentation des posters aux étudiants de M2 du master MLDS, rue des Saints-Pères 
+
 
 ## idées de projet 2021-2022
 -> construire un modèle de traduction neuronale pour (essayer de) traduire Shakespeare
 -> construire un traducteur automatique d'un texte en français en écriture inclusive 
+-> reproduire une expérience précédente: tester ses résultats à partir d'un article décrivant l'expérience, des données, voire du code... 
+Exemples de tâches proposées pour l'atelier REPROLANG2020 : <https://lrec2020.lrec-conf.org/en/reprolang2020/selected-tasks/> 
 
 
 
 ## Quelques exemples de projets choisis de 2019-2020: 
 - générer un texte de rap avec un système de contraintes rythimques  
-- un système de résumé automatique pour les romans
+- un système de résumé automatique pour les romans ?
 - comparaison des agents conversationnels (chatbots)
 - peut-on détecter automatiquement les mots d'un dictionnaire du XVIIIe siècle devenus obsolètes?  
 - peut-on étiqueter les mots à la manière de Walker, lexicographe du XVIIIe siècle?
+ 
  
 ## Pour en savoir plus
 - retrouvez les archives de la promo 2019-2020:  <http://yunes.informatique.univ-paris-diderot.fr/accueil/enseignement/ireel-relia>
