@@ -13,12 +13,12 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
  
 
 ## Fonctionnement
-- Les étudiants auront 12 séances de 2h d'enseignement encadré à Paris Diderot au premier semestre (mercredi 13h-15h00, salle 208, Olympe de Gouges. Premier cours mercredi 22 septembre).
+- Les étudiants auront 12 séances de 2h d'enseignement encadré à Paris Diderot au premier semestre (mercredi 13h-15h00, salle 208, bâtiment Olympe de Gouges. Premier cours mercredi 22 septembre).
 - Les étudiants travailleront en binôme : un étudiant(e) angliciste de Diderot en L3 (dans le cadre du projet étudiant de L3) ou un étudiant(e) en linguistique informatique  et un étudiant en informatique de Paris Diderot ou de Paris Descartes.
 - Les séances alterneront entre informatique et linguistique, si possible toutes les semaines.
 - Après trois séances introductives, le suivi se fera au plus près des projets conduits par chaque binôme.
 - L’enseignement serait effectué en français mais les productions seraient en langue anglaise (abstract de conférence, blog, poster et article collectif final).
-- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h20 à 12h30 en salle 309 Olympe de Gouges (premier cours le 15 septembre 2019). 
+- Les étudiants sont invités à suivre également, en auditeurs libres, le cours de L3 de M. de Guillaume Wisniewski d'initiaton au TAL (traitement automatique du langage) pour approfondir leurs connaissances. Il aura lieu le mercredi de 10h20 à 12h30 en salle 309 au bâtiment Olympe de Gouges (premier cours le 29 septembre 2019). 
 
 
 ## PROGRAMME PREVISIONNEL
@@ -69,7 +69,7 @@ Exemples de tâches proposées pour l'atelier REPROLANG2020 : <https://lrec2020.
 
 
 ## Quelques exemples de projets choisis de 2019-2020: 
-- générer un texte de rap avec un système de contraintes rythimques  
+- générer un texte de rap avec un système de contraintes rythmiques  
 - un système de résumé automatique pour les romans ?
 - comparaison des agents conversationnels (chatbots)
 - peut-on détecter automatiquement les mots d'un dictionnaire du XVIIIe siècle devenus obsolètes?  
