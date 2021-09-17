@@ -22,9 +22,11 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 
 
 ## PROGRAMME PREVISIONNEL
-=======================
+=========================
 
-Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL
+Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL \\
+présentation des intervenants, du projet , de l'évaluation
+<https://github.com/nballier/IDEEL/blob/main/Presentation%20IDEEL%20e%CC%81tudiants%20L3.pdf>
 
 
 séance 2 : initiation à python / deep learning, initiation aux carnets jupyter
@@ -34,7 +36,6 @@ séance 3 : quelques outils collaboratifs de la recherche :  (Google Scholar) , 
 
 
 séance 4: choix du projet, bibliographies, le genre de l'abstract 
-
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
 ACL anthology <https://aclanthology.org/>
 
@@ -80,8 +81,11 @@ Exemples de tâches proposées pour l'atelier REPROLANG2020 : <https://lrec2020.
 - témoignage d'étudiants et d'enseignants en 2019-2020 sur cet enseignement interdisciplinaire : <https://youtu.be/nokwdPdj3Xc> 
 
 
+## document de présentation du  projet à destination des étudiants de L3
 
-LCA5Y260 Projet encadré (code de l'UFR études anglophones) 
+
+
+LCA5Y260 Projet encadré (code de l'UFR études anglophones)   3 crédits ects
 
 ·       Initiation au deep learning pour le traitement automatique des langues
 
@@ -94,7 +98,7 @@ Ce cours bénéficie d’un soutien de l’Université de Paris dans le cadre de
 • Modalités d'évaluation du contrôle continu, session 1 : Les étudiants rédigeront un abstract et un poster présentant leur projet.
 • Modalités d'évaluation du contrôle terminal, session 1 : Les étudiants rédigeront un abstract et un poster présentant leur projet.
 
-• Modalités d'évaluation, session 2 : Repris du poster présentant le projet.
+• Modalités d'évaluation, session 2 : Reprise du poster présentant le projet.
 
 Bibliographie :
 
