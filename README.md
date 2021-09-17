@@ -26,11 +26,16 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 
 Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL
 
-séance 2 :initiation à python / deep learning, initiation aux carnets jupyter
+séance 2 : initiation à python / deep learning, initiation aux carnets jupyter
 
-séance 3 : outils collaboratifs: BibTeX , zotero, overleaf 
 
-séance 4: choix du projet, bibliographies 
+séance 3 : quelques outils collaboratifs de la recherche :  (Google Scholar) , le format BibTeX , zotero, overleaf, arxiv, HAL 
+
+
+séance 4: choix du projet, bibliographies, le genre de l'abstract 
+
+LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
+ACL anthology <https://aclanthology.org/>
 
 séance 5 : présentation d'un outil du TAL: un tagger
 
@@ -51,7 +56,6 @@ séance 12 finalisation poster
 
 14 janvier 9h-11h30  : présentation des posters 
 
-
 ## idées de projet 2021-2022
 -> construire un modèle de traduction neuronale pour (essayer de) traduire Shakespeare
 -> construire un traducteur automatique d'un texte en français en écriture inclusive 
@@ -68,7 +72,6 @@ séance 12 finalisation poster
 ## Pour en savoir plus
 - retrouvez les archives de la promo 2019-2020:  <http://yunes.informatique.univ-paris-diderot.fr/accueil/enseignement/ireel-relia>
 - témoignage d'étudiants et d'enseignants en 2019-2020 sur cet enseignement interdisciplinaire : <https://youtu.be/nokwdPdj3Xc> 
-
 
 
 
