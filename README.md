@@ -61,9 +61,9 @@ séance 12 : finalisation poster
 
 
 ## idées de projet 2021-2022
--> construire un modèle de traduction neuronale pour (essayer de) traduire Shakespeare
--> construire un traducteur automatique d'un texte en français en écriture inclusive 
--> reproduire une expérience précédente: tester ses résultats à partir d'un article décrivant l'expérience, des données, voire du code... 
+-> construire un modèle de traduction neuronale pour (essayer de) traduire Shakespeare \\
+-> construire un traducteur automatique d'un texte en français en écriture inclusive  \\
+-> reproduire une expérience précédente: tester ses résultats à partir d'un article décrivant l'expérience, des données, voire du code... \\
 Exemples de tâches proposées pour l'atelier REPROLANG2020 : <https://lrec2020.lrec-conf.org/en/reprolang2020/selected-tasks/> 
 
 
