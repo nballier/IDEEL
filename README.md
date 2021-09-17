@@ -24,7 +24,7 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 ## PROGRAMME PREVISIONNEL
 =========================
 
-Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL \\
+Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL\ 
 présentation des intervenants, du projet , de l'évaluation
 <https://github.com/nballier/IDEEL/blob/main/Presentation%20IDEEL%20e%CC%81tudiants%20L3.pdf>
 
