@@ -108,9 +108,9 @@ Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python
 <https://github.com/nballier/IDEEL>
 
 
-# FETE DE LA SCIENCE
+# FETE DE LA SCIENCE 2021 !!
 
-Pour sinscire à la table-ronde desur la recherche du 1er octobre:
+Pour sinscire à la table-ronde sur la recherche du 1er octobre 20221 (14h-15h , 15h30-16h30) :
 <https://www.eventbrite.com/e/inscription-table-ronde-les-metiers-de-la-recherche-171867078057>
 
  ![alt text](https://github.com/nballier/IDEEL/blob/main/TableRondeFeteDeLaScience.pdf)
