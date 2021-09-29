@@ -108,6 +108,15 @@ Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python
 <https://github.com/nballier/IDEEL>
 
 
+# FETE DE LA SCIENCE
+
+Pour sinscire à la table-ronde desur la recherche du 1er octobre:
+<https://www.eventbrite.com/e/inscription-table-ronde-les-metiers-de-la-recherche-171867078057>
+
+ ![alt text](https://github.com/nballier/IDEEL/blob/main/TableRondeFeteDeLaScience.pdf)
+ 
+
+
 # Acknowledgement
 
 This project was supported by IdEx Université de Paris ANR-18-IDEX-0001 (AAP Initiation à la Recherche en Licence, vague 2)
