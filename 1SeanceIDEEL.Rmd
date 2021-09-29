@@ -1,4 +1,4 @@
-SEANCE 1
+# IDEEL SEANCE 1
 - Initiation à la recherche
 - le pilotage top-down de la recherche (du projet financé à l'exécution de tâches 'Work Packages')
 - une approche de la recherche bottom-up 
