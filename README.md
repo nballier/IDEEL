@@ -31,14 +31,18 @@ Exemples d'annotation en TAL: la suite coreNLP de Stanford
 <https://corenlp.run/>
 <https://github.com/nballier/IDEEL/blob/main/Presentation%20IDEEL%20e%CC%81tudiants%20L3.pdf>
 
-séance 2 (29 novembres) : 
 ### SEANCE 2 (29 sept 2021) : organiser le repas de cohésion
+- tour de table étudiant
 - le paradigme 'learning-by-doing'
 - la reproductibilité des expériences : atelier REPROLANG
+<https://lrec2020.lrec-conf.org/en/reprolang2020/selected-tasks/> 
 les principes  FAIR : Findable, Accessible, Interoperable, Reusable
-- le site des programmeurs : <github>
+- le réseau social des programmeurs : <github.com>
+<https://github.com/guillaume-wisniewski>
+- le dépôt des données, des scripts 
+<https://github.com/neuroviz/>
 - petite introduction à la morphologie computationnelle
-- NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT <https://ntradumatica.uab.cat> 
+- NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT et un compte gmail :  <https://ntradumatica.uab.cat> 
 
 
 
