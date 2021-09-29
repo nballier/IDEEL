@@ -24,16 +24,26 @@ Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguist
 ## PROGRAMME PREVISIONNEL
 =========================
 
-Séance 1 : (22 sept 2021) les domaines de la linguistique et les principales applications du TAL\ 
-présentation des intervenants, du projet , de l'évaluation
+### Séance 1 (22 sept 2021) : les domaines de la linguistique et les principales applications du TAL\ 
+présentation des intervenants, du projet , de l'évaluation, quelques outils collaboratifs de la recherche :  (Google Scholar) , le format BibTeX , zotero, overleaf, arxiv, HAL ,
+
+Exemples d'annotation en TAL: la suite coreNLP de Stanford
+<https://corenlp.run/>
 <https://github.com/nballier/IDEEL/blob/main/Presentation%20IDEEL%20e%CC%81tudiants%20L3.pdf>
 
+séance 2 (29 novembres) : 
+### SEANCE 2 (29 sept 2021) : organiser le repas de cohésion
+- le paradigme 'learning-by-doing'
+- la reproductibilité des expériences : atelier REPROLANG
+les principes  FAIR : Findable, Accessible, Interoperable, Reusable
+- le site des programmeurs : <github>
+- petite introduction à la morphologie computationnelle
+- NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT <https://ntradumatica.uab.cat> 
 
-séance 2 : initiation à python / deep learning, initiation aux carnets jupyter
 
 
-séance 3 : quelques outils collaboratifs de la recherche :  (Google Scholar) , le format BibTeX , zotero, overleaf, arxiv, HAL 
-
+séance 3 (6 oct) :  initiation à python /initiation aux carnets jupyter
+Appo
 
 séance 4: choix du projet, bibliographies, le genre de l'abstract 
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
