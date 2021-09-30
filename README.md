@@ -74,16 +74,13 @@ les principes  FAIR : Findable, Accessible, Interoperable, Reusable
 - petite introduction à la morphologie computationnelle
 - NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT et un compte gmail :  <https://ntradumatica.uab.cat> 
 
-
-
 séance 3 (6 oct) :  initiation à python /initiation aux carnets jupyter
-Appo
 
-séance 4: choix du projet, bibliographies, le genre de l'abstract 
+séance 4 (13 oct) : choix du projet, bibliographies, le genre de l'abstract 
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
 ACL anthology <https://aclanthology.org/>
 
-séance 5 : présentation d'un outil du TAL: un tagger
+séance 5  (20 oct) : présentation d'un outil du TAL: un tagger
 
 séance 6 : présentation d'un outil du TAL: un exemple de parser
 
