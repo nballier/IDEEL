@@ -120,6 +120,9 @@ Exemples de tâches proposées pour l'atelier REPROLANG2020 : <https://lrec2020.
 ## Pour en savoir plus
 - retrouvez les archives de la promo 2019-2020:  <http://yunes.informatique.univ-paris-diderot.fr/accueil/enseignement/ireel-relia>
 - témoignage d'étudiants et d'enseignants en 2019-2020 sur cet enseignement interdisciplinaire : <https://youtu.be/nokwdPdj3Xc> 
+- article instutionnel sur la promo 209-2020 
+<https://u-paris.fr/vers-linterdisciplinarite-des-formations/>
+ 
 
 
 ## document de présentation du  projet à destination des étudiants de L3
