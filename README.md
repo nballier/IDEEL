@@ -74,11 +74,13 @@ les principes  FAIR : Findable, Accessible, Interoperable, Reusable
 - petite introduction à la morphologie computationnelle
 - NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT et un compte gmail :  <https://ntradumatica.uab.cat> 
 
-séance 3 (6 oct) :  initiation à python /initiation aux carnets jupyter
-Lien vers le cours <https://github.com/nballier/RELIA/blob/master/Python-Initiation.pdf>
+séance 3 (6 oct) :  initiation à python /initiation aux carnets jupyter  
+
+Lien vers le cours <https://github.com/nballier/RELIA/blob/master/Python-Initiation.pdf>  
 L'objectif est d'arriver à des carnets jupyter et à des scripts simples comme ceux-ci:
 mBART
-<https://github.com/nballier/SPECTRANS/blob/main/WMT21/mbart_translation.py>
+<https://github.com/nballier/SPECTRANS/blob/main/WMT21/mbart_translation.py>  
+
 Hugging Face
 <https://github.com/nballier/SPECTRANS/blob/main/WMT21/baseline_translator.py>
 
