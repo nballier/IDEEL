@@ -75,6 +75,23 @@ les principes  FAIR : Findable, Accessible, Interoperable, Reusable
 - NMT101 : petite recette pour découvrir la TAN (Traduction Automatique Neuronale) avec le site multitraiNMT et un compte gmail :  <https://ntradumatica.uab.cat> 
 
 séance 3 (6 oct) :  initiation à python /initiation aux carnets jupyter
+Lien vers le cours <https://github.com/nballier/RELIA/blob/master/Python-Initiation.pdf>
+L'objectif est d'arriver à des carnets jupyter et à des scripts simples comme ceux-ci:
+mBART
+<https://github.com/nballier/SPECTRANS/blob/main/WMT21/mbart_translation.py>
+Hugging Face
+<https://github.com/nballier/SPECTRANS/blob/main/WMT21/baseline_translator.py>
+
+Pour la suite, nous verrons des carnets jupyter 
+pour OpenNMT sur collab, application que vous avez dans Google Drive
+
+<https://colab.research.google.com/drive/1Circneo7Fan-SAE0G0e6fre2seQWyP9O>
+pour JoeyNMT sur collab
+<https://colab.research.google.com/drive/1tjmjBJJxqs392X9LSN2X3BHYJNIJlHFl>
+
+pour info, une learning curve possible pour python
+<https://github.com/nballier/RELIA/blob/master/4.%20Learning_Python.Rd> 
+
 
 séance 4 (13 oct) : choix du projet, bibliographies, le genre de l'abstract 
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
