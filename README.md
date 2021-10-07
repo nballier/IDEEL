@@ -91,17 +91,23 @@ pour JoeyNMT sur collab
 pour info, une learning curve possible pour python
 <https://github.com/nballier/RELIA/blob/master/4.%20Learning_Python.Rd> 
 
+Pour tester son code python en ligne
+<https://www.onlinegdb.com/online_python_debugger>
+<https://extendsclass.com/python-tester.html> 
 
-séance 4 (13 oct) : choix du projet, bibliographies, le genre de l'abstract 
+
+### séance 4 (13 oct) : choix du projet, initiation à python 2 : les carnets jupyter 
+quelques bibliothèques python / lancer des expériences sur un carnet jupyter
+
+
+### séance 5  (20 oct) :  choix du projet, bibliographies, le genre de l'abstract 
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
 ACL anthology <https://aclanthology.org/>
 
-séance 5  (20 oct) : présentation d'un outil du TAL: un tagger
 
-séance 6 : présentation d'un outil du TAL: un exemple de parser
+séance 6 : présentation d'un outil du TAL: un exemple de tagger, un exemple de parser
 
-séance 7 : quelques bibliothèques python /
-lancer des expériences sur un carnet jupyter
+séance 7 : quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
 séance 8 : lancer des expériences sur un serveur
 
