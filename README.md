@@ -96,6 +96,10 @@ Pour tester son code python en ligne
 <https://extendsclass.com/python-tester.html> 
 
 
+Pour installer l'application pour les carnets jupyter:
+<https://github.com/jupyterlab/jupyterlab-desktop#download>
+
+
 ### séance 4 (13 oct) : choix du projet, initiation à python 2 : les carnets jupyter 
 quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
