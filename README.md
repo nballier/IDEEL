@@ -100,8 +100,14 @@ Pour installer l'application pour les carnets jupyter:
 <https://github.com/jupyterlab/jupyterlab-desktop#download>
 
 
-### séance 4 (13 oct) : choix du projet, initiation à python 2 : les carnets jupyter 
-quelques bibliothèques python / lancer des expériences sur un carnet jupyter
+### séance 4 (13 oct) :  initiation à python 2 : les carnets jupyter 
+quelques bibliothèques python (NLTK) / lancer des expériences sur un carnet jupyter
+    Python 1 : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation.pdf>
+    Python 2 : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation2.pdf>
+les expressions régulières : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/regexp.pdf>
+Carnets Jupyter : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Jupyter.pdf>
+Résolution de problème : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Probleme.pdf>
+la bibliothèque NLTK : <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/nltk.pdf>
 
 
 ### séance 5  (20 oct) :  choix du projet, bibliographies, le genre de l'abstract 
