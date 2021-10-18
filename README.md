@@ -103,11 +103,11 @@ Pour installer l'application pour les carnets jupyter:
 ### séance 4 (13 oct) :  initiation à python 2 : les carnets jupyter 
 quelques bibliothèques python (NLTK) / lancer des expériences sur un carnet jupyter
 Python 1
-<yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation.pdf>
+<https://yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation.pdf>
 Python 2
-<yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation2.pdf>
+<http://yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Python-Initiation2.pdf>
 les expressions régulières
-<yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/regexp.pdf>
+<www.yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/regexp.pdf>
 Carnets Jupyter
 <yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Jupyter.pdf>
 Résolution de problème
