@@ -116,12 +116,12 @@ ACL anthology <https://aclanthology.org/>
 
 
 ### séance 6  (27 oct) :  choix du projet (suite), l'abstract, premiers travaux (procédures d'évaluation) 
-LaTeX : <https://fr.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
-outil collaboratif <ttps://www.overleaf.com>
+- LaTeX : <https://fr.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
+- outil collaboratif <ttps://www.overleaf.com>
 <https://www.overleaf.com/project/617949eb2203f8b639213acc>
-pour générer des tableaux facilement : <https://www.tablesgenerator.com/>
-Feuille de style à suivre pour l'abstract <https://coling2020.org/coling2020.zip>
-See examples of abstracts here: https://www.linguisticsociety.org/resource/model-abstracts
+- pour générer des tableaux facilement : <https://www.tablesgenerator.com/>
+- Feuille de style à suivre pour l'abstract <https://coling2020.org/coling2020.zip>
+- See examples of abstracts here: https://www.linguisticsociety.org/resource/model-abstracts
 
 
 
