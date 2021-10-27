@@ -117,9 +117,20 @@ LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstr
 ACL anthology <https://aclanthology.org/>
 
 
-séance 6 : présentation d'un outil du TAL: un exemple de tagger, un exemple de parser
+### séance 6  (27 oct) :  choix du projet (suite), l'abstract, premiers travaux (procédures d'évaluation) 
 
-séance 7 : quelques bibliothèques python / lancer des expériences sur un carnet jupyter
+
+
+### READING WEEK
+Take advantage of Nov 3rd talk:  
+3 November 2021, Promises and challenges of massive-scale AI - the case of large language models
+Promises and challenges of massive-scale AI – the case of large language models
+<https://u-paris.fr/diip/diip-seminars/>
+
+
+### séance 7 (10 nov) : commentaire des abstracts  
+
+quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
 séance 8 : lancer des expériences sur un serveur
 
