@@ -110,14 +110,18 @@ quelques bibliothèques python (NLTK) / lancer des expériences sur un carnet ju
 - Résolution de problème: <https://yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/Probleme.pdf>
 - la bibliothèque NLTK : <https://yunes.informatique.univ-paris-diderot.fr/wp-content/uploads/cours/RELIA/2021/nltk.pdf>
 
-
-
 ### séance 5  (20 oct) :  choix du projet, bibliographies, le genre de l'abstract 
 LSA models for abstracts <https://www.linguisticsociety.org/resource/model-abstracts>
 ACL anthology <https://aclanthology.org/>
 
 
 ### séance 6  (27 oct) :  choix du projet (suite), l'abstract, premiers travaux (procédures d'évaluation) 
+LaTeX : <https://fr.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes>
+outil collaboratif <ttps://www.overleaf.com>
+<https://www.overleaf.com/project/617949eb2203f8b639213acc>
+pour générer des tableaux facilement : <https://www.tablesgenerator.com/>
+Feuille de style à suivre pour l'abstract <https://coling2020.org/coling2020.zip>
+See examples of abstracts here: https://www.linguisticsociety.org/resource/model-abstracts
 
 
 
@@ -128,7 +132,9 @@ Promises and challenges of massive-scale AI – the case of large language model
 <https://u-paris.fr/diip/diip-seminars/>
 
 
-### séance 7 (10 nov) : commentaire des abstracts  
+### séance 7 (10 nov) : commentaire des abstracts
+-> commentaire des procédures d'évaluation 
+-> préparation des données d'entraînement
 
 quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
