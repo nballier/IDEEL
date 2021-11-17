@@ -6,7 +6,6 @@ Initiation interdisciplinaire au deep learning pour le traitement automatique de
 Nicolas Ballier (UFR études anglophones), Guillaume Wisniewski (UFR de linguistique), Jean-Baptiste Yunès (UFR d'informatique)
 
 
-
 ## Objectifs du cours
 > Ce cours vise à la transmission des compétences initiales pour la soumission d’abstract à des conférences dans le domaine des humanités numériques. On cherchera à décrire les problématique linguistiques et les jeux de données envisagés pour les analyser, décrire ces données et établir les traitements automatiques nécessaires. L'idée est notamment de pouvoir initier les étudiants à la traduction automatique dès la L3, en choisissant eux-mêmes leurs textes pour entraîner des réseaux de neurones, s'initier à leur réglage, produire ainsi des "modèles" de traduction neuronale et de juger des traductions produites.
 > Ce cours est ouvert aux étudiants en L3 de l'UFR d'études anglophones, de l'UFR de linguistique, de l'UFR d'informatique et de l'UFR de mathématiques et d'informatique.
@@ -138,9 +137,10 @@ Promises and challenges of massive-scale AI – the case of large language model
 
 quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
-séance 8 : lancer des expériences sur un serveur
+### séance 8 (17 novembre)  : de l'abstract au poster
 
-séance 9 : lancer des expériences sur un serveur (2) 
+
+séance 9 : lancer des expériences sur un serveur
 
 séance 10 : supervision des expériences et interprétation des résultats 
 
