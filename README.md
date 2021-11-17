@@ -138,15 +138,18 @@ Promises and challenges of massive-scale AI – the case of large language model
 quelques bibliothèques python / lancer des expériences sur un carnet jupyter
 
 ### séance 8 (17 novembre)  : de l'abstract au poster
+un gabarit (template) de poster possible
+<https://github.com/nballier/IDEEL/blob/main/Poster%20PAC2021%20template.zip>
 
+### séance 9  (24 novembre) : les procédures de validation de vos expériences
 
-séance 9 : lancer des expériences sur un serveur
+lancer des expériences sur un serveur
 
-séance 10 : supervision des expériences et interprétation des résultats 
+### séance 10 : supervision des expériences et interprétation des résultats 
 
-séance 11 : interprétation des résultats et réalisation du poster
+### séance 11 : interprétation des résultats et réalisation du poster
 
-séance 12 : finalisation poster 
+### séance 12 : finalisation poster 
 
 
 14 janvier 2022 : 9h-11h30  : présentation des posters aux étudiants de M2 du master MLDS, rue des Saints-Pères 
