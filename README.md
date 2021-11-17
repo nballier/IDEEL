@@ -132,6 +132,7 @@ Promises and challenges of massive-scale AI – the case of large language model
 
 
 ### séance 7 (10 nov) : commentaire des abstracts
+<https://coling2020.org/coling2020.zip>
 -> commentaire des procédures d'évaluation 
 -> préparation des données d'entraînement
 
