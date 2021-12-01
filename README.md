@@ -146,7 +146,7 @@ un gabarit (template) de poster possible
 
 lancer des expériences sur un serveur
 
-### séance 10 : (1er novembre) supervision des expériences et interprétation des résultats 
+### séance 10 : (1er décembre) supervision des expériences et interprétation des résultats 
 - l'analyse en dépendances: principes, format d'annotation et corpus d'entraînements:
 - le format CONNL-U <https://universaldependencies.org/format.html>
 - l'exemple du corpus SEQUOIA <https://github.com/UniversalDependencies/UD_French-Sequoia/blob/master/fr_sequoia-ud-dev.conllu>
