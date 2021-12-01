@@ -146,7 +146,36 @@ un gabarit (template) de poster possible
 
 lancer des expériences sur un serveur
 
-### séance 10 : supervision des expériences et interprétation des résultats 
+### séance 10 : (1er novembre) supervision des expériences et interprétation des résultats 
+- l'analyse en dépendances: principes, format d'annotation et corpus d'entraînements:
+- le format CONNL-U <https://universaldependencies.org/format.html>
+- l'exemple du corpus SEQUOIA <https://github.com/UniversalDependencies/UD_French-Sequoia/blob/master/fr_sequoia-ud-dev.conllu>
+-  les bbliothèques de python pour l'annotation en dépendance au format CONNL: exemple: UDpipe
+-  UDpipe <https://universaldependencies.org/tools.html#udpipe>
+-  exemple en ligne : <https://lindat.mff.cuni.cz/services/udpipe/>
+-  les infrastructures de recherche : CLARIN <https://www.clarin.eu/>
+HUMA-NUM <https://www.huma-num.fr/> 
+-  save the date: le GGF Tour 9 décembre
+Pour ceux et celles qui veulent tout savoir sur la
+    Grande Grammaire du français
+    https://www.actes-sud.fr/catalogue/litterature/la-grande-grammaire-du-francais
+
+    Et qui n’ont pas pu venir à la journée du 19 novembre à l’Université de Paris
+    http://www.llf.cnrs.fr/fr/node/6900
+
+    - le 9 décembre à la BNF, à partir de 18h30, avec Eddy de Preto
+    https://www.bnf.fr/fr/agenda/la-grande-grammaire-du-francais
+-  save the date : CSSP 9-11 décembre 
+
+Le Quatorzième Colloque de Syntaxe et Sémantique à Paris (CSSP)
+aura lieu cette année du 9 au 11 décembre en version hybride : sur
+zoom et dans l'amphithéâtre Buffon de l'Université de Paris, 75013.
+
+Vous trouverez le programme à l'adresse suivante:
+http://www.cssp.cnrs.fr/cssp2021/programme/index.html
+
+L'inscription se fera en ligne, à l'adresse suivante:
+http://www.cssp.cnrs.fr/cssp2021/inscription/inscription.php
 
 ### séance 11 : interprétation des résultats et réalisation du poster
 
