@@ -155,6 +155,9 @@ lancer des expériences sur un serveur
 -  exemple en ligne : <https://lindat.mff.cuni.cz/services/udpipe/>
 -  les infrastructures de recherche : CLARIN <https://www.clarin.eu/>
 HUMA-NUM <https://www.huma-num.fr/> 
+- les problématiques du plagiat et de l'autocitation:
+<https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism> 
+
 -  save the date: le GGF Tour 9 décembre
 Pour ceux et celles qui veulent tout savoir sur la
     Grande Grammaire du français
